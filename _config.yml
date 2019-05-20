@@ -1,7 +1,8 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: SELinux Userland Tips and Tools
+title: SELinux Userland
+description: Guides, tools and workshops for learning how to write great SELinux policy
 url: "https://selinuxuser.land"
+baseurl: "/"
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
 search_enabled: true
-color_scheme: "dark"
