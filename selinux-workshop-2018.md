@@ -10,4 +10,4 @@ Shellcode Eater (as you can see here in [main.c](https://github.com/joekir/selin
 However this workshop is not about vulnerabilities, it's actually about the power of SELinux to defend even the most vulnerable of websites!
 The participants of the workshop crafted an SELinux policy to defend the application from being used in unintended ways!
 
-Take a look https://github.com/joekir/selinux-workshop and let me know [@josephkirwin](https://twitter.com/josephkirwin) on twitter if you have issues or improvements to suggest.
+Take a look [https://github.com/joekir/selinux-workshop](https://github.com/joekir/selinux-workshop) and let me know [@josephkirwin](https://twitter.com/josephkirwin) on twitter if you have issues or improvements to suggest.
