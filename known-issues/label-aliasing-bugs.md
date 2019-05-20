@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SELinux label aliasing
-parent: KnownIssues
+parent: known-issues
 nav_order: 1
 ---
 _**This is a repost from https://www.josephkirwin.com/2018/04/15/selinux-labelling-aliases**_
