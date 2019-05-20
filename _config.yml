@@ -1,6 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 
-title: SELinuxUser.land
+title: selinuxuser.land
 description: Guides, tools and workshops for learning how to write great SELinux policy
 url: "https://selinuxuser.land"
 baseurl: "/"
