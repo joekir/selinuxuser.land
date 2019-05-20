@@ -1,0 +1,7 @@
+remote_theme: pmarsceill/just-the-docs
+
+title: SELinux Userland Tips and Tools
+url: "https://selinuxuser.land"
+exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"]
+search_enabled: true
+color_scheme: "dark"
