@@ -2,7 +2,6 @@
 layout: default
 title: Protecting Shellcode-Eater web application
 parent: Workshops
-nav_order: 1
 ---
 
 ![shellcode_eater](https://raw.githubusercontent.com/joekir/selinux-workshop/master/shellcode_eater/img/shellcode-eater.png)

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: When to use MCS - Never
-parent: Home
-nav_order: 1
+parent: Blog
 ---
 The aim of this post is to save you some Googling-Time™, skip ahead to the conclusion [here](#tldr---dont-bother-with-mcs)
 
