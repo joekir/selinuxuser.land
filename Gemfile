@@ -7,7 +7,7 @@ require 'net/http'
 versions = JSON.parse(Net::HTTP.get(URI('https://pages.github.com/versions.json')))
 
 # 2nd arg is a ratchet to ensure it's at least current version when I last looked at it
-gem 'github-pages', versions['github-pages'], '>= 226'
+gem 'github-pages', versions['github-pages']
 gem 'jekyll'
 gem 'just-the-docs'
 gem 'webrick'
