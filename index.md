@@ -11,6 +11,6 @@ _Guides, tools and workshop links for learning how to write great SELinux policy
 {: .fs-6 .fw-300 }
 
 ### Contents
-* [Known Issues](/blog) - Common gotchas or bugs and workarounds
+* [Known Issues](/known-issues) - Common gotchas or bugs and workarounds
 * [Blog](/blog) - General ramblings about SELinux oddities
 * [Workshops](/workshops) - training materials for SELinux workshops
